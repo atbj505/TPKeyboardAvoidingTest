@@ -1,2 +1,6 @@
 # TPKeyboardAvoidingTest
 TPKeyboardAvoiding实验
+##步骤
+1. 倒入TPKeyboardAvoiding文件中的类
+2. 根据需要创建scrollview，tableview或是collectionview
+3. 如tableview 生成tableview的xib绑定TPKeyboardAvoidingTableView类（至今还未找到代码改变tableview类名的方法）
